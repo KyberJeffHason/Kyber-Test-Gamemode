@@ -12,6 +12,25 @@ Health
 	align-items: center;
 }
 
+AmmoCount {
+	position: absolute;
+	background-color: rgba( black, 0.5 );
+	right: 300px;
+	bottom: 48px;
+	font-size: 40px;
+	font-weight: bold;
+	color: white;
+	height: 80px;
+	padding: 0 20px;
+	align-items: center;
+	opacity: 0.0;
+
+	&.active
+	{
+		opacity: 1.0;
+	}
+}
+
 CurrentTool
 {
 	position: absolute;

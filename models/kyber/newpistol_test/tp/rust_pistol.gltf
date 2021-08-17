@@ -1,0 +1,808 @@
+{
+  "asset": {
+    "copyright": "",
+    "generator": "VRF - https://vrf.steamdb.info/",
+    "version": "2.0"
+  },
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2752,
+      "max": [
+        10.979866981506348,
+        1.1667331457138062,
+        5.741799354553223
+      ],
+      "min": [
+        -3.1992380619049072,
+        -1.0823650360107422,
+        -5.54822301864624
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 2752,
+      "max": [
+        0.9970703125,
+        0.9921875
+      ],
+      "min": [
+        0.0035343170166015625,
+        0.006565093994140625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 2752,
+      "max": [
+        1,
+        1,
+        0.9998700022697449
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 2752,
+      "max": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "min": [
+        -1,
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5121,
+      "count": 2752,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 2752,
+      "max": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "min": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5125,
+      "count": 12000,
+      "type": "SCALAR"
+    },
+    {
+      "name": "Bind Matrices",
+      "bufferView": 7,
+      "componentType": 5126,
+      "count": 1,
+      "max": [
+        1,
+        -0,
+        0,
+        -0,
+        -0,
+        1,
+        -0,
+        0,
+        0,
+        -0,
+        1,
+        -0,
+        -0,
+        0,
+        -0,
+        1
+      ],
+      "min": [
+        1,
+        -0,
+        0,
+        -0,
+        -0,
+        1,
+        -0,
+        0,
+        0,
+        -0,
+        1,
+        -0,
+        -0,
+        0,
+        -0,
+        1
+      ],
+      "type": "MAT4"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 832,
+      "max": [
+        10.952030181884766,
+        1.0609022378921509,
+        5.419354438781738
+      ],
+      "min": [
+        -2.995570182800293,
+        -0.9361006617546082,
+        -5.54822301864624
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5126,
+      "count": 832,
+      "max": [
+        0.9970703125,
+        0.9921875
+      ],
+      "min": [
+        0.0035343170166015625,
+        0.006565093994140625
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 832,
+      "max": [
+        1,
+        0.9998700022697449,
+        0.9998700022697449
+      ],
+      "min": [
+        -1,
+        -1,
+        -1
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5126,
+      "count": 832,
+      "max": [
+        1,
+        0.9998700022697449,
+        1,
+        1
+      ],
+      "min": [
+        -0.9998700022697449,
+        -0.9998700022697449,
+        -1,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5121,
+      "count": 832,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5126,
+      "count": 832,
+      "max": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "min": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5125,
+      "count": 3000,
+      "type": "SCALAR"
+    },
+    {
+      "name": "Bind Matrices",
+      "bufferView": 15,
+      "componentType": 5126,
+      "count": 1,
+      "max": [
+        1,
+        -0,
+        0,
+        -0,
+        -0,
+        1,
+        -0,
+        0,
+        0,
+        -0,
+        1,
+        -0,
+        -0,
+        0,
+        -0,
+        1
+      ],
+      "min": [
+        1,
+        -0,
+        0,
+        -0,
+        -0,
+        1,
+        -0,
+        0,
+        0,
+        -0,
+        1,
+        -0,
+        -0,
+        0,
+        -0,
+        1
+      ],
+      "type": "MAT4"
+    },
+    {
+      "bufferView": 16,
+      "componentType": 5126,
+      "count": 99,
+      "max": [
+        10.839351654052734,
+        0.996168315410614,
+        5.433956623077393
+      ],
+      "min": [
+        -2.911133050918579,
+        -0.9198274612426758,
+        -4.940418720245361
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 17,
+      "componentType": 5126,
+      "count": 99,
+      "max": [
+        0.5400390625,
+        0.9814453125
+      ],
+      "min": [
+        0.00141143798828125,
+        -0.091064453125
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 18,
+      "componentType": 5126,
+      "count": 99,
+      "max": [
+        0.9997480511665344,
+        0.9998700022697449,
+        0.9998700022697449
+      ],
+      "min": [
+        -1,
+        -0.8516584038734436,
+        -0.9993062615394592
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 19,
+      "componentType": 5126,
+      "count": 99,
+      "max": [
+        1,
+        0.9773415327072144,
+        0.9997480511665344,
+        1
+      ],
+      "min": [
+        -0.9974828362464905,
+        -0.9674033522605896,
+        -0.9998700022697449,
+        -1
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 20,
+      "componentType": 5121,
+      "count": 99,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 21,
+      "componentType": 5126,
+      "count": 99,
+      "max": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "min": [
+        1,
+        0,
+        0,
+        0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 22,
+      "componentType": 5125,
+      "count": 282,
+      "type": "SCALAR"
+    },
+    {
+      "name": "Bind Matrices",
+      "bufferView": 23,
+      "componentType": 5126,
+      "count": 1,
+      "max": [
+        1,
+        -0,
+        0,
+        -0,
+        -0,
+        1,
+        -0,
+        0,
+        0,
+        -0,
+        1,
+        -0,
+        -0,
+        0,
+        -0,
+        1
+      ],
+      "min": [
+        1,
+        -0,
+        0,
+        -0,
+        -0,
+        1,
+        -0,
+        0,
+        0,
+        -0,
+        1,
+        -0,
+        -0,
+        0,
+        -0,
+        1
+      ],
+      "type": "MAT4"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 33024,
+      "byteOffset": 136064,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 22016,
+      "byteOffset": 202112,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 33024,
+      "byteOffset": 169088,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 44032,
+      "byteOffset": 48000,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 11008,
+      "byteOffset": 262752
+    },
+    {
+      "buffer": 0,
+      "byteLength": 44032,
+      "byteOffset": 92032,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 48000,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 64,
+      "byteOffset": 311572
+    },
+    {
+      "buffer": 0,
+      "byteLength": 9984,
+      "byteOffset": 273760,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6656,
+      "byteOffset": 293728,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 9984,
+      "byteOffset": 283744,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13312,
+      "byteOffset": 224128,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3328,
+      "byteOffset": 300384
+    },
+    {
+      "buffer": 0,
+      "byteLength": 13312,
+      "byteOffset": 237440,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 12000,
+      "byteOffset": 250752,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 64,
+      "byteOffset": 311636
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1188,
+      "byteOffset": 306880,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 792,
+      "byteOffset": 310384,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1188,
+      "byteOffset": 308068,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1584,
+      "byteOffset": 303712,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 396,
+      "byteOffset": 311176
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1584,
+      "byteOffset": 305296,
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1128,
+      "byteOffset": 309256,
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 64,
+      "byteOffset": 311700
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 311764,
+      "uri": "rust_pistol.bin"
+    }
+  ],
+  "images": [
+    {
+      "name": "rust_pistol_color_tga_ede630fb_0",
+      "uri": "rust_pistol_color_tga_ede630fb.png"
+    },
+    {
+      "name": "rust_pistol_ao_tga_f21b7f87_1",
+      "uri": "rust_pistol_ao_tga_f21b7f87.png"
+    },
+    {
+      "name": "rust_pistol_normal_tga_40924468_2",
+      "uri": "rust_pistol_normal_tga_40924468.png"
+    }
+  ],
+  "materials": [
+    {
+      "extras": {
+        "baseColorTexture": {
+          "index": 0
+        }
+      },
+      "name": "rust_pistol",
+      "normalTexture": {
+        "index": 2
+      },
+      "occlusionTexture": {
+        "index": 1
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.671999990940094
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "C:\\Steam\\steamapps\\common\\sbox\\addons\\rust\\weapons\\rust_pistol\\rust_pistol.vmdl_c.Embedded.1",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "TEXCOORD_0": 1,
+            "NORMAL": 2,
+            "TANGENT": 3,
+            "JOINTS_0": 4,
+            "WEIGHTS_0": 5
+          },
+          "indices": 6,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "C:\\Steam\\steamapps\\common\\sbox\\addons\\rust\\weapons\\rust_pistol\\rust_pistol.vmdl_c.Embedded.2",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 8,
+            "TEXCOORD_0": 9,
+            "NORMAL": 10,
+            "TANGENT": 11,
+            "JOINTS_0": 12,
+            "WEIGHTS_0": 13
+          },
+          "indices": 14,
+          "material": 0
+        }
+      ]
+    },
+    {
+      "name": "C:\\Steam\\steamapps\\common\\sbox\\addons\\rust\\weapons\\rust_pistol\\rust_pistol.vmdl_c.Embedded.3",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 16,
+            "TEXCOORD_0": 17,
+            "NORMAL": 18,
+            "TANGENT": 19,
+            "JOINTS_0": 20,
+            "WEIGHTS_0": 21
+          },
+          "indices": 22,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "name": "C:\\Steam\\steamapps\\common\\sbox\\addons\\rust\\weapons\\rust_pistol\\rust_pistol.vmdl_c.Embedded.1",
+      "children": [
+        1
+      ],
+      "matrix": [
+        3.027916E-09,
+        0,
+        0.025399996,
+        0,
+        0.025399996,
+        3.027916E-09,
+        0,
+        0,
+        0,
+        0.025399996,
+        3.027916E-09,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "hold_R"
+    },
+    {
+      "name": "C:\\Steam\\steamapps\\common\\sbox\\addons\\rust\\weapons\\rust_pistol\\rust_pistol.vmdl_c.Embedded.1",
+      "mesh": 0,
+      "skin": 0
+    },
+    {
+      "name": "C:\\Steam\\steamapps\\common\\sbox\\addons\\rust\\weapons\\rust_pistol\\rust_pistol.vmdl_c.Embedded.2",
+      "children": [
+        4
+      ],
+      "matrix": [
+        3.027916E-09,
+        0,
+        0.025399996,
+        0,
+        0.025399996,
+        3.027916E-09,
+        0,
+        0,
+        0,
+        0.025399996,
+        3.027916E-09,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "hold_R"
+    },
+    {
+      "name": "C:\\Steam\\steamapps\\common\\sbox\\addons\\rust\\weapons\\rust_pistol\\rust_pistol.vmdl_c.Embedded.2",
+      "mesh": 1,
+      "skin": 1
+    },
+    {
+      "name": "C:\\Steam\\steamapps\\common\\sbox\\addons\\rust\\weapons\\rust_pistol\\rust_pistol.vmdl_c.Embedded.3",
+      "children": [
+        7
+      ],
+      "matrix": [
+        3.027916E-09,
+        0,
+        0.025399996,
+        0,
+        0.025399996,
+        3.027916E-09,
+        0,
+        0,
+        0,
+        0.025399996,
+        3.027916E-09,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "hold_R"
+    },
+    {
+      "name": "C:\\Steam\\steamapps\\common\\sbox\\addons\\rust\\weapons\\rust_pistol\\rust_pistol.vmdl_c.Embedded.3",
+      "mesh": 2,
+      "skin": 2
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987
+    }
+  ],
+  "scenes": [
+    {
+      "name": "rust_pistol.vmdl_c",
+      "nodes": [
+        0,
+        2,
+        3,
+        5,
+        6,
+        8
+      ]
+    }
+  ],
+  "skins": [
+    {
+      "inverseBindMatrices": 7,
+      "joints": [
+        1
+      ]
+    },
+    {
+      "inverseBindMatrices": 15,
+      "joints": [
+        4
+      ]
+    },
+    {
+      "inverseBindMatrices": 23,
+      "joints": [
+        7
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "rust_pistol_color_tga_ede630fb_0",
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "name": "rust_pistol_ao_tga_f21b7f87_1",
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "name": "rust_pistol_normal_tga_40924468_2",
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

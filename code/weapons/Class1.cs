@@ -21,7 +21,7 @@ namespace sandbox.weapons
 		{
 			base.Spawn();
 
-			SetModel( "models/kyber/pistol/handgun_fbx_7_4_binary.vmdl_c" );
+			SetModel( "models/kyber/newpistol_test/tp/actual/pistol_t.vmdl" );
 		}
 
 		public override bool CanPrimaryAttack()

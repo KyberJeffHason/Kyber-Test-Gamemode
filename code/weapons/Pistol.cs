@@ -10,12 +10,6 @@ partial class Pistol : Weapon
 
 	public TimeSince TimeSinceDischarge { get; set; }
 
-	private int ammo = 10;
-	public int AmmoTest { 
-		get { return ammo; }
-		set { ammo = value; }
-	}
-
 	public override void Spawn()
 	{
 		base.Spawn();
@@ -25,27 +19,20 @@ partial class Pistol : Weapon
 
 	public override bool CanPrimaryAttack()
 	{
-	 if ( AmmoTest > 0 )
-		{
-			return base.CanPrimaryAttack() && Input.Pressed( InputButton.Attack1 );
-		}
-		return false;
+		return base.CanPrimaryAttack() && Input.Pressed( InputButton.Attack1 );
 	}
 
 	public override void AttackPrimary()
 	{
 		TimeSincePrimaryAttack = 0;
 		TimeSinceSecondaryAttack = 0;
-		
+
 		(Owner as AnimEntity)?.SetAnimBool( "b_attack", true );
 
 		ShootEffects();
 		PlaySound( "rust_pistol.shoot" );
 		ShootBullet( 0.05f, 1.5f, 9.0f, 3.0f );
-
-		AmmoTest--;
 	}
-
 
 	private void Discharge()
 	{
@@ -63,13 +50,6 @@ partial class Pistol : Weapon
 		ShootBullet( pos, rot.Forward, 0.05f, 1.5f, 9.0f, 3.0f );
 
 		ApplyAbsoluteImpulse( rot.Backward * 200.0f );
-
-	}
-
-	public override void OnReloadFinish()
-	{
-		IsReloading = false;
-		AmmoTest = 10;
 	}
 
 	protected override void OnPhysicsCollision( CollisionEventData eventData )
